@@ -1,0 +1,5 @@
+<view>
+  <view class="page__bd page__bd_spacing">
+    <wxhtml generic:elements="custome" nodes="{{nodes}}" bindclick="onclick"></wxhtml>
+  </view>
+</view>

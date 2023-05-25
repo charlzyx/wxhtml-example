@@ -1,0 +1,8 @@
+<view class="comp-demo cclass">
+  <view>DEMO</view>
+  <view>{{name}}</view>
+  <view class="{{attrs.class}}" style="{{attrs.style}}">
+    <view>{{attrs.style}}</view>
+    <view>{{attrs.class}}</view>
+  </view>
+</view>
